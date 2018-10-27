@@ -10,8 +10,7 @@ class Student():
 
 
 def sayHello():
-    print("Hi, 欢迎来到图灵学院！")
-
+    打印（“嗨，你好
 
 
 # 此判断语句建议一直作为程序的入口
